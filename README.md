@@ -12,3 +12,8 @@ Check out [**_Page Preview!_**](https://content.codecademy.com/programs/freelanc
 
 2. [Redline mock](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png)
 
+3. [Cell phone icon](https://content.codecademy.com/programs/freelance-one/excursion/images/phone.png)
+
+4. [MP4 stock video](https://content.codecademy.com/programs/freelance-one/excursion/videos/excursion.mp4)
+
+5. [Landscape image](https://content.codecademy.com/programs/freelance-one/excursion/images/camp.jpg)

@@ -22,3 +22,8 @@ h2 {
 #description {
     color: gainsboro;
 }
+
+#copyright-info {
+    text-align: right;
+    color: gainsboro;
+}
